@@ -6,7 +6,15 @@
 		
 		$.extend(self, {
 			nCageImgs : [
-			'https://f.i.uol.com.br/fotografia/2013/10/31/331934-970x600-1.jpeg',
+			'https://raw.githubusercontent.com/correamth/nCage/master/luan/3%20olhos.jpg',
+			'https://raw.githubusercontent.com/correamth/nCage/master/luan/luaannnn.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luan%20(3).jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luan%20cagando.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luan%203.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luan.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luannn%20(2).jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luannnnn%20(2).jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luannnn.jpg',
 			],
 			handleImages : function (lstImgs, time)
 			{
