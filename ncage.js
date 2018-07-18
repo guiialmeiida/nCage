@@ -15,6 +15,18 @@
 				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luannn%20(2).jpg',
 				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luannnnn%20(2).jpg',
 				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luannnn.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/ventriloco%20luan.png',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/maluco.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luannnnn.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luannn%20vittar.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luananana.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luan%20vittar.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luan%20pato.png',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luan%20abelha.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luaannnn.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/lll.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/dj.jpg',
+				
 			],
 			handleImages : function (lstImgs, time)
 			{
