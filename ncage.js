@@ -26,6 +26,7 @@
 				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luaannnn.jpg',
 				'https://raw.githubusercontent.com/correamth/nCage/master/luan/lll.jpg',
 				'https://raw.githubusercontent.com/correamth/nCage/master/luan/dj.jpg',
+				'https://raw.githubusercontent.com/correamth/nCage/master/luan/luan%20resrvis.png',
 				
 			],
 			handleImages : function (lstImgs, time)
