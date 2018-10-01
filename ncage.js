@@ -38,7 +38,7 @@
 						var h = $(item).height();
 						var w = $(item).width();
 						
-						//If image loaded
+						
 						if(h > 0 && w > 0)
 						{
 							//Replace
@@ -47,7 +47,7 @@
 						}
 						else
 						{
-							//Replace when loaded
+							
 							$(item).load(function(){
 								//Prevent 'infinite' loop
 									if($.inArray($(item).attr('src'), lstImgs) == -1)
